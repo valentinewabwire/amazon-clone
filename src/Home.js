@@ -14,7 +14,7 @@ function Home() {
         <div className="home__row">
           <Product
             id="14252425"
-            title="The river and the source"
+            title="“A home without daughters is like a spring without a source.” Published in 1994, The River and the Source traces the lives of three generations of women and the men who stood by them. It begins with the story of Akoko, set in her rich traditional Luo surroundings in Nyanza province of Kenya"
             price={29.99}
             rating={2}
             image="https://images-na.ssl-images-amazon.com/images/I/81t45U3g5hL.jpg"
