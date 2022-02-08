@@ -8,7 +8,7 @@ function Home() {
       <div className="home__Container">
         <img
           className="home__image"
-          src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_TallHero_Gamers_en_US_1x._CB667161802_.jpg"
+          src="https://m.media-amazon.com/images/I/6138dCMwqPL._SX3000_.jpg"
           alt="Amazon banner"
         />
         <div className="home__row">
@@ -27,7 +27,7 @@ function Home() {
             The PS5 console gives game publishers the ability to let players upgrade their disc and digital PS4 games to digital PS5 games"
             price={22.99}
             rating={2}
-            image="https://mellowdeetechnologies.com/wp-content/uploads/2020/11/ps5-digital-edition.jpg"
+            image="https://cdn.pixabay.com/photo/2021/09/07/07/11/game-console-6603120_960_720.jpg"
           />
         </div>
         <div className="home__row">
